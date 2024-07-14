@@ -19,7 +19,7 @@ Our solution leverages Intel's Neural Chat LLM for local inference on CPU, makin
 ### Prerequisites
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Team_Sentinals_Unnati-2024/new/main?filename=README.md
+   git clone https://github.com/Aditya19110/Team_Sentinals_Unnati-2024
    cd Team_Sentinals_Unnati-2024
    ```
 
