@@ -49,7 +49,7 @@ Our solution leverages Intel's Neural Chat LLM for local inference on CPU, makin
    ```
 
 ### Download the LLM
-Due to space constraints, the LLM is not included in this repository. Please download the Intel Neural Chat LLM from [Hugging Face](https://huggingface.co) and place it in the appropriate directory.
+Due to space constraints, the LLM is not included in this repository. Please download the Intel Neural Chat LLM from [Hugging Face](https://huggingface.co/TheBloke/neural-chat-7B-v3-1-GGUF/blob/main/neural-chat-7b-v3-1.Q4_K_M.gguf) and place it in the appropriate directory.
 
 ### Data Preparation
 Convert the data to embeddings by running:
