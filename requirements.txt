@@ -9,3 +9,4 @@ sentence_transformers
 chromadb
 pypdf
 tenacity
+flask
