@@ -1,4 +1,4 @@
-# Team Sentinals: Cancer-Related Chatbot
+# Team Sentinals: CancerCare Chatbot
 
 Welcome to the official repository of **Team Sentinals** from **MGMs College of Engineering, Nanded**! We are excited to present our chatbot designed to answer basic questions related to cancer. Our chatbot provides accurate and concise responses to your inquiries.
 
