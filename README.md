@@ -77,7 +77,7 @@ Thank you for exploring our project! We hope our chatbot provides valuable assis
 | Kashish Aswani     | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/kashish-aswani-1780a2259/) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:kashishaswani18@gmail.com) |
 | Rasika Rakhewar    | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/rasika-rakhewar-2a5158256/) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:rasikarakhewar3010@gmail.com) |
 | Nagesh Ballurkar   | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/nagesh-ballurkar-9362a12b7/) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:nageshballurkar2003@gmail.com) |
-| Pallavi Lagdutkar | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/pallavilaglludkar) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:Pallavilgdutkar@gmail.com) |
+| Pallavi Lagludkar | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/pallavilaglludkar) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:Pallavilgdutkar@gmail.com) |
 
 ## Our Mentor
 
