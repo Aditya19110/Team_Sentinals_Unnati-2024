@@ -68,3 +68,20 @@ Visit the provided URL in your browser to interact with the chatbot and ask any 
 
 ## Conclusion
 Thank you for exploring our project! We hope our chatbot provides valuable assistance in answering your cancer-related queries.
+
+## Team Members
+
+| Name               | LinkedIn | Email                    |
+|--------------------|----------|--------------------------|
+| Aditya Kulkarni    | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/aditya191103) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:kulkarniaditya262@gmail.com) |
+| Kashish Aswani     | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/kashish-aswani-1780a2259/) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:kashishaswani18@gmail.com) |
+| Rasika Rakhewar    | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/rasika-rakhewar-2a5158256/) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:rasikarakhewar3010@gmail.com) |
+| Nagesh Ballurkar   | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/nagesh-ballurkar-9362a12b7/) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:nageshballurkar2003@gmail.com) |
+| Pallavi Lagdutkar | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/pallavilaglludkar) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:Pallavilgdutkar@gmail.com) |
+
+## Our Mentor
+
+| Name               | LinkedIn | Email                    |
+|--------------------|----------|--------------------------|
+| Shivprasad Titre   | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/shivprasad-titare-11668825/) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:titare_si@mgmcen.ac.in) |
+
