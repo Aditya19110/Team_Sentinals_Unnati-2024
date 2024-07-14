@@ -83,5 +83,5 @@ Thank you for exploring our project! We hope our chatbot provides valuable assis
 
 | Name               | LinkedIn | Email                    |
 |--------------------|----------|--------------------------|
-| Shivprasad Titre   | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/shivprasad-titare-11668825/) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:titare_si@mgmcen.ac.in) |
+| Mr. Shivprasad Titare   | [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/shivprasad-titare-11668825/) | [<img src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:titare_si@mgmcen.ac.in) |
 
