@@ -65,6 +65,7 @@ python app.py
 ```
 
 Visit the provided URL in your browser to interact with the chatbot and ask any cancer-related questions.
+All the documents(pdfs) and ppts are uploaded here...
 
 ## Conclusion
 Thank you for exploring our project! We hope our chatbot provides valuable assistance in answering your cancer-related queries.
